@@ -1,7 +1,7 @@
 import React from "react";
 
 // core components
-import background from 'assets/img/background.mp4';
+import background from '../assets/img/background.mp4';
 
 function IndexHeader() {
   return (
