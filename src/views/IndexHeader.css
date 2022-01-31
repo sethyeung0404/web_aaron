@@ -1,6 +1,8 @@
 @media only screen and (max-width: 600px) {
     .video-mask{
         border-radius: 40px; 
+        transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
         overflow: hidden; 
     }
 }
@@ -12,6 +14,8 @@
         min-width: 500px;
         Width: 40%; 
         border-radius: 40px; 
+        transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
         overflow: hidden; 
     }
 } 
